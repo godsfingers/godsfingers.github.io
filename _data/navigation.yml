@@ -1,0 +1,8 @@
+- name: Blog
+  link: /blog/
+- name: About
+  link: /about/
+- name: Contact
+  link: /contact/
+# - name: 성남제일교회
+#   link: "https://snji.org/"
