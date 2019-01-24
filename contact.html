@@ -16,9 +16,10 @@ image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
 			<p class="subtext editable">If you have any questions or queries send us a message and we'll get back to you as soon as we can.</p>
 		</div>
 	</div>
+  	<div class="learn-more"><a href="#contact">Contact<span class="arrow">&#x25BC;</span></a></div>
 </section>
 
-<section class="pad">
+<section class="pad" id="contact">
 	<div class="text-container contact-box">
 		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
 			<input type="hidden" name="_to" value="support@cloudcannon.com">
@@ -57,7 +58,7 @@ image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
 <script charset="UTF-8" class="daum_roughmap_loader_script" src="http://dmaps.daum.net/map_js_init/roughmapLoader.js"></script>
 
 
-<div class="map" id="map"></div>
+<!-- <div class="map" id="map"></div>
 
 <script>
 	window.mapData = {{ page.map | jsonify }};
@@ -88,4 +89,4 @@ image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
 		});
 	}
 </script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.google_maps_javascript_api_key }}&amp;callback=initMap"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.google_maps_javascript_api_key }}&amp;callback=initMap"></script> -->
