@@ -2,8 +2,8 @@
 title: Contact
 description: Send us a message to find out more!
 map:
-  latitude: -45.8787605
-  longitude: 170.5027976
+  latitude: 37.443924
+  longitude: 127.156712
   address: "273, Gwangmyeong-ro, Jungwon-gu, Seongnam-si, Gyeonggi-do, Republic of Korea"
   zoom: 13
 image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
@@ -12,7 +12,7 @@ image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
 <section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
 	<div class="inner-hero text-container">
 		<div class="hero-text-container">
-			<h1 class="editable">Get in touch today</h1>
+			<h1 class="editable">Contact us</h1>
 			<p class="subtext editable">If you have any questions or queries send us a message and we'll get back to you as soon as we can.</p>
 		</div>
 	</div>
@@ -45,6 +45,17 @@ image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
 		</div>
 	</div>
 </section>
+
+<!-- * Daum 지도 - 지도퍼가기 -->
+<!-- 1. 지도 노드 -->
+<div id="daumRoughmapContainer1548337279773" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+
+<!--
+	2. 설치 스크립트
+	* 지도 퍼가기 서비스를 2개 이상 넣을 경우, 설치 스크립트는 하나만 삽입합니다.
+-->
+<script charset="UTF-8" class="daum_roughmap_loader_script" src="http://dmaps.daum.net/map_js_init/roughmapLoader.js"></script>
+
 
 <div class="map" id="map"></div>
 
