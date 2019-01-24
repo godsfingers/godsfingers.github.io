@@ -39,6 +39,8 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
+  - vendor
+  - vendor/bundle/
 
 collections:
   staff_members:
@@ -107,4 +109,3 @@ _comments:
   description: Text shown when sharing on social media
   blurb: Short bio or description of this person
 
-exclude: [vendor]
