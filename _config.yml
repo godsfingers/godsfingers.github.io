@@ -2,7 +2,7 @@
 # Site
 
 title: God's Fingers
-url: "https://brave-submarine.cloudvent.net"
+url: "https://godsfingers.kr"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key: AIzaSyAlcc_BP8AMLbq-sN4tp2HcWc2CsQJd_i8
@@ -10,15 +10,14 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: App marketing template for Jekyll.
+description:
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name:
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
 
 # -----
 # Build
