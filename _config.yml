@@ -5,7 +5,7 @@ title: God's Fingers
 url: "https://godsfingers.kr"
 baseurl:
 google_analytics_key:
-google_maps_javascript_api_key: 
+google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
@@ -45,7 +45,7 @@ collections:
   staff_members:
     _hide_content: true
 
-paginate: 10
+paginate: 5
 paginate_path: "/blog/:num/"
 
 jekyll-archives:
