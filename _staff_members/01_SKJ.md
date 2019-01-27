@@ -2,5 +2,6 @@
 name: Seong-Keun Jin
 position: CTO
 image_path: "skjin.jpg"
-blurb: Writing...
+major: "Computer & Electronic Engineering"
+blurb: "Embedded System R&D"
 ---

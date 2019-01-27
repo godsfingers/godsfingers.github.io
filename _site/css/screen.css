@@ -49,7 +49,7 @@ h2 a {
     text-decoration: none; }
 
 p, address, ul {
-  font-size: 1.38em;
+  font-size: 1.25em;
   margin-bottom: 20px;
   font-weight: 300;
   line-height: 1.6em;
@@ -308,6 +308,13 @@ blockquote:before {
   .staff .position {
     color: #666;
     font-size: .8em; }
+  .staff .major {
+    margin-top: 1px;
+    color: #0B2161;
+    font-size: .688em; }
+  .staff .blurb {
+    color: #8A0808;
+    font-size: .688em; }
 
 .map {
   width: 100%;

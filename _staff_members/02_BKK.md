@@ -2,5 +2,6 @@
 name: Byung-Kwon Kim
 position: Tech Advisor
 image_path: "bkk.jpg"
-blurb: Writing...
+major: "Mechanical Engineering"
+blurb: "Heat Flow System Design"
 ---

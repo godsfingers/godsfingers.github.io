@@ -4,9 +4,6 @@
 title: God's Fingers
 url: "https://godsfingers.kr"
 baseurl:
-google_analytics_key:
-google_maps_javascript_api_key:
-disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
@@ -22,9 +19,12 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
-
+markdown: kramdown
+timezone: "Asia/Seoul"
 permalink: pretty
+highlighter: rouge
+kramdown:
+  input: GFM
 
 plugins:
   - jekyll-sitemap
