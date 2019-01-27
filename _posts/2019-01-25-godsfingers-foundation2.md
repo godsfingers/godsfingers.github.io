@@ -4,8 +4,7 @@ date: 2019-01-25
 description: 2013년 3월 10일 토요일 창립예배
 category:
   - God's Fingers
-  - 창립예배
-  - test
+  
 image: https://images.unsplash.com/photo-1502675135487-e971002a6adb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80
 
 ---
