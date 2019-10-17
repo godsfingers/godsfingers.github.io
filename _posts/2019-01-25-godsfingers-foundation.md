@@ -8,7 +8,6 @@ category:
 image: https://images.unsplash.com/photo-1502675135487-e971002a6adb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80
 
 ---
-<br>
 
 2013년 3월 10일 토요일 성남제일교회 창업 동아리 `God's Fingers` 창립예배가 있었습니다. 창립예배는 담임 목사님의 말씀 선포 가운데 창립 멤버 6명이 함께했습니다.
 
