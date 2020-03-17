@@ -22,22 +22,27 @@
 
 	.name {
 		margin-top: 20px;
+		font-size: 20px;
+		font-weight: bold;
 	}
 
 	.position {
 		color: #666;
-		font-size: .8em;
+		font-size: 14px;
+		font-weight: 600;
 	}
 
 	.major {
 		margin-top: 1px;
-		color: #0B2161;
-		font-size: .755em;
+		color: #337ab7;
+		font-size: 13px;
+		font-weight: 600;
 	}
 
 	.blurb {
 		color: #8A0808;
-		font-size: .755em;
+		font-size: 13px;
+		font-weight: 600;
 	}
 
 }
