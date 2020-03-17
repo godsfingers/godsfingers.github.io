@@ -1,6 +1,6 @@
 ---
 name: Doo-Seop Choi
-position: Club President
+position: Researcher
 image_path: "dschoi.jpg"
 major: "Computer Software & Security"
 blurb: "Information Security, Machine Learning"

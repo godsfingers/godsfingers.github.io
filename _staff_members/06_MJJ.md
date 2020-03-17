@@ -1,6 +1,6 @@
 ---
 name: Min-Ji Jo
-position: Team Member
+position: Honorary Member
 image_path: "mjj.jpg"
 major: "Police Administration"
 blurb: "PCB, Embedded"
