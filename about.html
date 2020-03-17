@@ -24,8 +24,8 @@ image: https://source.unsplash.com/BcoGknSqlDc/2000x1322?a=.png
 					<!-- <div class="name"><a target="_blank" href="https://twitter.com/{{ person.twitter_username }}">{{ person.name }}</a></div> -->
 					<div class="name">{{ person.name }}</div>
 					<div class="position">{{ person.position }}</div>
-					<div class="major" >전공: {{ person.major }}</div>
-					<div class="blurb" style='line-height:80%'>관심분야: {{ person.blurb }}</div>
+					<div class="major" >{{ person.major }}</div>
+					<div class="blurb" style='line-height:80%'>{{ person.blurb }}</div>
 				</li>
 			{% endfor %}
 		</ul>
