@@ -1,6 +1,6 @@
 ---
 name: Ji-Hyung Jung
-position: Design Advisor
+position: CDO(Chief Design Officer)
 image_path: "jhj.jpg"
 major: "Industrial Design"
 blurb: "Industrial Design"
