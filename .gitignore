@@ -67,3 +67,5 @@ $RECYCLE.BIN/
 vendor/**
 _site/
 .bundle
+
+.sass-cache/
